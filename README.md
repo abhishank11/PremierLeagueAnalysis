@@ -11,4 +11,11 @@ webscraper1.ipynb: The main jupyter lab file that consists the code of the overa
 final_df.csv: The main csv file that was exported after all the player datas were scraped from fbref.com and merged together
 1-6.csv: csv files that contains players information
 
+1.csv: Man United
+2.csv: Liverpool
+3.csv: Man City
+4.csv: Arsenal
+5.csv: Tottenham Hotspur
+6.csv: Chelsea
+
 Tableau Dashboard links:
