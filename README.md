@@ -1,4 +1,4 @@
-# PremierLeagueAnalysis
+#Premier League Analysis
 
 This project involves using Python to scrap data from fbref.com of more than 200 premier league players belonging to the Top 6 premier league teams: Manchester United, Chelsea, Arsenal, Tottenham Hotspurs, Manchester City and Liverpool.
 
