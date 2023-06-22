@@ -7,9 +7,11 @@ The purpose of the project is to conduct Individual, Team Contribution, Comparti
 A Tableau Dashboard was also finally created to visualize the Key performance indicators of the Individual, Contributional, Compartive and few aspects of the Predictive Analysis.
 
 webscraper1.ipynb: The main jupyter lab file that consists the code of the overall analysis
+cleaner.ipynb: the supplement jupyterlab file that was used to clean the final_df.csv data file
 
 final_df.csv: The main csv file that was exported after all the player datas were scraped from fbref.com and merged together
 1-6.csv: csv files that contains players information
+cleaned_final.csv: Cleaned csv file with no null values, Goal+Assist column, Start Percentage
 
 1.csv: Man United
 2.csv: Liverpool
