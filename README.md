@@ -10,6 +10,7 @@ webscraper1.ipynb: The main jupyter lab file that consists the code of the overa
 cleaner.ipynb: the supplement jupyterlab file that was used to clean the final_df.csv data file
 
 final_df.csv: The main csv file that was exported after all the player datas were scraped from fbref.com and merged together
+
 1-6.csv: csv files that contains players information
 
 cleaned_final.csv: Cleaned csv file with no null values, Goal+Assist column, Start Percentage
