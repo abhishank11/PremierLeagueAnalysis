@@ -23,3 +23,5 @@ cleaned_final.csv: Cleaned csv file with no null values, Goal+Assist column, Sta
 6.csv: Chelsea
 
 Tableau Dashboard links:
+
+tableauSummary.png : Tableau Summary Page
